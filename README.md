@@ -81,7 +81,7 @@
 </p>
 
 <p>
-  <b><a href="https://gitlab.com/Marco-A-Silva/DevOps-Cloud">Proyecto Grogu</a></b> <br>
+  <b><a href="https://gitlab.com/Marco-A-Silva/grogu">Proyecto Grogu</a></b> <br>
   Proyecto de DevOps/Cloud, en el que cree un bot de discord, desplegado en un cluster de kubernetes y automatizado usando CI/CD con gitlab para el workflow adecuado, aprendiendo asi muchas delicadezas de el area de DevOps y Cloud 
 </p>
 
