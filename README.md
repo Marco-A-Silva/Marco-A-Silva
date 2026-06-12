@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Ariel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" alt="" width="450" src="https://tenor.com/es-MX/view/smiley-pc-coffee-kaffee-kafe-cofe-gif-4514738875718239198">
 
@@ -6,8 +6,8 @@
 
 - 🎓 Estudiante de **Ingeniería en Computación** en la **UDELAR**.
 
-- 💡 Me apasiona construir arquitecturas robustas y aplicar principios de ingeniería de forma orgánica en mis desarrollos.
-
+- 💡 Soy estudiante de Ingeniería en Computación en la UDELAR, apasionado por la tecnología, la innovación y el aprendizaje constante
+     Me motiva enfrentar nuevos desafíos, adquirir habilidades en distintas áreas del desarrollo y la informática, y buscar siempre       formas de superarme tanto profesional como personalmente
 - 🚀 Mi enfoque es versátil: exploro desde el desarrollo de software puro hasta la automatización de sistemas y la infraestructura.
 
 <br>
