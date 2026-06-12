@@ -16,7 +16,7 @@
 
 <p align="center">
 
-- 📋 Lenguajes:
+- 📋 Lenguajes y Metodologias:
 
     ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,24 +31,24 @@
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- ⚙️ Metodologías y DevOps:
-
     ![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=azure-devops&logoColor=white)
     ![Scrum](https://img.shields.io/badge/scrum-%23000000.svg?style=for-the-badge&logo=scrum&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 - 🖥️ Sistemas Operativos:
 
     ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
     ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  
 
 - 🛠️ Herramientas:
 
     ![Code - OSS](https://img.shields.io/badge/Code_OSS-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
     ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+  
 </p>
 
 <br>
@@ -89,6 +89,4 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contacto</b> 
 
-&nbsp; <a href="mailto:marcoantonio.sp05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp; <a href="https://github.com/Marco-A-Silva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a><h1 align="center">Hola, soy Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<img align="right" alt="" width="400" src="https://tenor.com/es-MX/view/smiley-pc-coffee-kaffee-kafe-cofe-gif-4514738875718239198">
+&nbsp; <a href="mailto:marcoantonio.sp05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp; <a href="https://www.linkedin.com/in/marco-silva-1102ba2b6/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
