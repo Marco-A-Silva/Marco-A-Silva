@@ -1,70 +1,67 @@
 <h1 align="center">Hola, soy Marco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" alt="" width="450" src="https://tenor.com/es-MX/view/smiley-pc-coffee-kaffee-kafe-cofe-gif-4514738875718239198">
+<img align="right" alt="" width="400" src="https://tenor.com/es-MX/view/smiley-pc-coffee-kaffee-kafe-cofe-gif-4514738875718239198">
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Sobre Mí</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>Sobre Mí</b>
 
 - 🎓 Estudiante de **Ingeniería en Computación** en la **UDELAR**.
 
-- 💡 Soy estudiante de Ingeniería en Computación en la UDELAR, apasionado por la tecnología, la innovación y el aprendizaje constante
-     Me motiva enfrentar nuevos desafíos, adquirir habilidades en distintas áreas del desarrollo y la informática, y buscar siempre       formas de superarme tanto profesional como personalmente
-- 🚀 Mi enfoque es versátil: exploro desde el desarrollo de software puro hasta la automatización de sistemas y la infraestructura.
+- 💡 Apasionado por la tecnología, la innovación y el aprendizaje constante. Me motiva enfrentar nuevos desafíos, adquirir habilidades en distintas áreas del desarrollo y la informática, y buscar siempre formas de superarme tanto profesional como personalmente.
+
+- 🚀 Mi enfoque es versátil: cuento con experiencia en desarrollo Full Stack (móvil y web) y una fuerte orientación hacia la infraestructura y la resolución de problemas técnicos[cite: 2].
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
 <p align="center">
 
 - 📋 Lenguajes:
 
-    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![GDScript](https://img.shields.io/badge/GDScript-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
-    
-- 🎛️ Sistemas Operativos:
 
-    ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-    ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    
-- ⚙️ Herramientas:
+- ⚙️ Metodologías y DevOps:
 
-    ![Code - OSS](https://img.shields.io/badge/Code_OSS-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+    ![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=azure-devops&logoColor=white)
+    ![Scrum](https://img.shields.io/badge/scrum-%23000000.svg?style=for-the-badge&logo=scrum&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-    ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godotengine)
 
-</p>
+- 🖥️ Sistemas Operativos:
 
-<br> 
+    ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 💻 <b>Mis Proyectos</b>
-
-<p>
-  <b><a href="https://github.com/ArielFalconM/arch-hyprland-config">Dotfiles & Deployment Motor</a></b> <br>
-  Motor híbrido y atómico para despliegues. Gestión centralizada de configuraciones y automatización integral del sistema.
-</p>
-
-<p>
-  <b><a href="https://github.com/ArielFalconM/Boveda-de-Notas-Automatizada">Private Vault Deployer</a></b> <br>
-  Sistema de despliegue y automatización mediante scripts para infraestructura personal de conocimiento en Obsidian.
-</p>
-
-<p>
-  <b><a href="https://github.com/ArielFalconM/PokemonLike-GD">PokemonLike-GD</a></b> <br>
-  Motor de interacciones estilo Pokémon. Énfasis en lógicas POO y arquitectura de software limpia en GDScript.
 </p>
 
 <br>
 
+## 💻 <b>Proyectos Académicos y Técnicos</b>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'><b>Contacto</b> &nbsp; <a href="mailto:ariel.falcon.m@proton.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> &nbsp; <a href="https://www.linkedin.com/in/ariel-falcon-m/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p>
+  <b><a href="https://github.com/Marco-A-Silva/Sistemas-Operativos">Sistemas Operativos</a></b> <br>
+  Implementaciones y ejercicios prácticos sobre gestión de procesos, memoria y arquitectura de sistemas.
+</p>
+
+<p>
+  <b><a href="https://github.com/Marco-A-Silva/Bases-De-Datos">Bases de Datos</a></b> <br>
+  Prácticas académicas enfocadas en modelado relacional y optimización de consultas.
+</p>
+
+<p>
+  <b><a href="https://gitlab.com/Marco-A-Silva/grogu">Proyecto Grogu</a></b> <br>
+  Desarrollo personal enfocado en arquitectura y lógica de sistemas. (Hosteado en GitLab).
+</p>
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contacto</b> 
+
+&nbsp; <a href="mailto:marcoantonio.sp05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp; <a href="https://github.com/Marco-A-Silva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
